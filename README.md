@@ -1,4 +1,5 @@
 Fitness Analysis EDA Project
+
 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on fitness-related data to extract meaningful insights and trends. The goal is to understand patterns in physical activity, health metrics, and fitness behavior, which can be useful for fitness enthusiasts, trainers, and health organizations.
